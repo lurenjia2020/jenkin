@@ -20,3 +20,6 @@ class TestHello:
 
     def test_hello4(self):
         assert 1
+
+    def test_hello5(self):
+            assert 1
